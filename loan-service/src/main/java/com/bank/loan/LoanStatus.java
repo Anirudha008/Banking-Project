@@ -1,0 +1,1 @@
+package com.bank.loan; public enum LoanStatus { PENDING, APPROVED, REJECTED, DISBURSED, CLOSED }

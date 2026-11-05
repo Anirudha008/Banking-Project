@@ -1,0 +1,1 @@
+package com.bank.customer; public enum KycStatus { PENDING, VERIFIED, REJECTED }

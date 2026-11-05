@@ -1,0 +1,5 @@
+CREATE DATABASE identity_db;
+CREATE DATABASE customer_db;
+CREATE DATABASE account_db;
+CREATE DATABASE loan_db;
+CREATE DATABASE audit_db;

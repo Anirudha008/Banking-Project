@@ -1,0 +1,1 @@
+This package is configured for local Windows development without Docker. See README.md for PostgreSQL, Kafka (KRaft), Redis/Memurai setup and startup order.

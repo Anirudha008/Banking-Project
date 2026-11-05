@@ -1,0 +1,1 @@
+package com.bank.customer; public enum CustomerStatus { ACTIVE, INACTIVE, BLOCKED }

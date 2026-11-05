@@ -1,0 +1,1 @@
+package com.bank.account; import org.springframework.data.jpa.repository.JpaRepository; public interface IdempotencyRepository extends JpaRepository<TransferIdempotency,String>{}
